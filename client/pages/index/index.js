@@ -157,6 +157,7 @@ fetch('http://localhost:3000/products')
               </a>
               <div class="recommend_swiper_item_cart" tabindex="0">
                 <img
+                  class="recommend_swiper_item_cart_image"
                   src="/assets/index/icon_cart.png"
                   alt="장바구니 버튼"
                 />
