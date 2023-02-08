@@ -1,4 +1,18 @@
 {
+  "banner": [
+    {
+      "src": "/assets/index/main_banner1.jpg",
+      "alt": "추천 한끼 총 집합"
+    },
+    {
+      "src": "/assets/index/main_banner2.jpg",
+      "alt": "추천 한끼 총 집합"
+    },
+    {
+      "src": "/assets/index/main_banner3.jpg",
+      "alt": "추천 한끼 총 집합"
+    }
+  ],
   "products": [
     {
       "id": "product-rk",
